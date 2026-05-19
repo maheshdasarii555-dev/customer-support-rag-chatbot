@@ -1,0 +1,14 @@
+Password Reset:
+Users can reset password using "Forgot Password".
+
+Refund Policy:
+Refund will be processed within 5 working days.
+
+Account Locked:
+Wait 30 minutes or contact support.
+
+Delivery Delay:
+Orders may delay during holidays.
+
+Payment Failed:
+Check bank balance and retry.
